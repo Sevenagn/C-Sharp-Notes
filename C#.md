@@ -69,5 +69,9 @@ Ctrl + F5 : start without debugging
 F5 : start debugging
 F10 : step over
 F11 : step into
+<<<<<<< HEAD
 test
 
+=======
+test 1
+>>>>>>> 40a1a9229e830befa7217e6b2ee137e23cb6cda6
